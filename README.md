@@ -1,3 +1,14 @@
+Mike Oliver - Makers Academy - Bowling
+
+Technologies used:
+
+Language- Ruby
+
+Testing - RSpec
+
+
+
+
 Bowling Challenge in Ruby
 =================
 
